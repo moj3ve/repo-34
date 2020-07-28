@@ -6,15 +6,15 @@ Maintainer: Yaya4
 Depends: wget , com.yaya4.repoicon
 Conflicts: ws.hbang.newterm2
 Filename: ./debians/chimera-migration.deb
-Size: 2104
-MD5sum: e2ad0e27d2fbe90f9f9bd4f08940aab8
-SHA1: 51629d08fca157122af21bf2119af2a9c0e37e05
-SHA256: 8be2d4f70776dd987e2176d9a14c91baacadb562c0ec8360762ea766a6e16e4f
-SHA512: 7096b23227a6b9d213ac4dff78ebecda14f932be2cc3e2f7040187c6270fa369bde20d86d633fe463d877733225fb543d1b9e28cb7839fa06f645f4af7f14994
+Size: 2096
+MD5sum: 9b174437bea37eed572df7cb05b89611
+SHA1: 8ec39c0b127c2eee45b3e5d648df49eb70e0f0dc
+SHA256: b24ae2153cda52153f1a2aff354f185e1d464645cb8179adac7449cf0f1603af
+SHA512: 0bec221c692ff006894396b5f811ee7ff8c84450a82c0f16bf3c21cd253e58a0df52793a8b46871580be3f6d5df8a0a9c7a7108e14fc803b214d811a8b6e3799
 Description: 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)
 Icon: file:///usr/share/yayaicon/icon/chimeraprocursus.png
-SileoDepiction: https://yaya48.github.io/repo/depictions/native/com.yaya4.chimera-migration/depiction.json
-Depiction: https://yaya48.gq/depictions/web/?p=com.yaya4.chimera-migration
+SileoDepiction: https://repo.yaya48.gq/depictions/native/com.yaya4.chimera-migration/depiction.json
+Depiction: https://repo.yaya48.gq/depictions/web/?p=com.yaya4.chimera-migration
 Name: Chimera Migration (To Procursus)
 Author: Yaya4
 
@@ -26,15 +26,15 @@ Maintainer: Yaya4
 Depends: curl , mterminal , com.yaya4.repoicon
 Conflicts: ws.hbang.newterm2
 Filename: ./debians/uncursus_installer.deb
-Size: 2236
-MD5sum: c9723a25d528c5977d6c0df8020c8aa1
-SHA1: 70edf06f1049e174edd1357b2b4a99dde038d1e9
-SHA256: 0e012060704abb143be50a0ae3877f877a6a13906dd6246287ec010210242937
-SHA512: 5e38556500de50b011f93c0495a5e76a6530e86b3435d80a3c74ce9265839925fe4131b1fcc4ed3d37ddd4cf7ddd3ebd83f73bbe1834f247d6a6e5262ac655c6
+Size: 2228
+MD5sum: 6825125db200b10f827aaa4dd56def24
+SHA1: e905e55892609d36bb292df53b386304a22169cb
+SHA256: a918a771b9fbc3e16873f84a8c7094ffde7365f25044211a9216ce2098bfd627
+SHA512: 90654bc3f865f8ebd8570d2342d404e90ab5843e47aff86e19d12da3062f5cc87aa678353b5485f8c85871732fca65e4ee95d30c7143a6231fd29c295b03f7cb
 Description: 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)
 Icon: file:///usr/share/yayaicon/icon/uncursus.png
-SileoDepiction: https://yaya48.github.io/repo/depictions/native/com.yaya4.uncursus-installer/depiction.json
-Depiction: https://yaya48.gq/depictions/web/?p=com.yaya4.uncursus-installer
+SileoDepiction: https://repo.yaya48.gq/depictions/native/com.yaya4.uncursus-installer/depiction.json
+Depiction: https://repo.yaya48.gq/depictions/web/?p=com.yaya4.uncursus-installer
 Name: Uncursus Installer
 Author: Yaya4
 
@@ -46,14 +46,14 @@ Section: Repo Icon
 Maintainer: Yaya4
 Conflicts: com.yaya4.repocion
 Filename: ./debians/yayarepoicon.deb
-Size: 2425292
-MD5sum: 4edfd32e42067f448d1e3cd854520cb8
-SHA1: acb6e8137a452ab2d6003f6d01097bc31268ab7e
-SHA256: d69d92f1a1cfa702bba3e5fefd207622e49c0f349d42fe8b4578a9e75c260ff5
-SHA512: c52339bfb5988f09943d151a21e470977f0c968b9d95af001b1b93243136b63579db33003b54ab065ab6ce01217f4b0a582ed16c25756410db1f0327fd87a25d
+Size: 2425284
+MD5sum: 6ed9646f843c32fd6dbaec5f8f65d0e2
+SHA1: 7cadef6e6993e5250b88212e4cd51da96ca0b0ad
+SHA256: 968057322475818cd65a6f0a12f5df0f6a122ab75157919a6f510f3c6e53442c
+SHA512: 757000f8f2bd1eb1a8fd7fa142590d0d1203a97dcc9ccda1424f3008a76e7793d831d73797280f9e9d7eab7efb9eb6a651f10f591bdcd2a4e8c656028731510c
 Description: The Pacakage For The Icon Of All My Package
-SileoDepiction: https://yaya48.github.io/repo/depictions/native/com.yaya4.repoicon/depiction.json
-Depiction: https://yaya48.gq/depictions/web/?p=com.yaya4.repoicon
+SileoDepiction: https://repo.yaya48.gq/depictions/native/com.yaya4.repoicon/depiction.json
+Depiction: https://repo.yaya48.gq/depictions/web/?p=com.yaya4.repoicon
 Icon: file:///usr/share/yayaicon/icon/repicon.png
 Name: Yaya's Repo Icon
 Author: Yaya4
