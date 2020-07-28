@@ -1,0 +1,139 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://yaya48.github.io/repo/assets/repo/Banners/uncursus.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer RESTORE ROOTFS BEFORE 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0.5",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "21/07/2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Yaya4",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				 {
+					"title": "1.0.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Added IOS 12 Support",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 24/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				 {
+					"title": "1.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Added An Checkrain Blocker",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				 {
+					"title": "1.0.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Fix Respring Loop By Replacing Killall SpringBoard To ldrestart",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+			         {
+					"title": "1.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fix Bug + Added An Odyssey Detector",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Fix Bug + Change Description",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

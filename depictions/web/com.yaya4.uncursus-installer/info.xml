@@ -1,0 +1,40 @@
+<package>
+	<id>com.yaya4.uncursus-installer</id>
+	<name>Uncursus Installer</name>
+	<version>1.0.5</version>
+ <compatibility>
+        <firmware>
+            <miniOS>12.0</miniOS>
+            <maxiOS>13.5</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+	<dependencies>
+		<package>wget, mterminal, curl</package>
+	</dependencies>
+	<shortDescription>Uncursus Installer</shortDescription>
+	<descriptionlist>
+		<description>Install Procursus On Unc0ver Without Computer.</description>
+		<description>Steps:
+                          1) RESTORE ROOTFS
+	                  
+			  2) Install The Pacakage
+	                  
+			  3) Get Root In MTerminal
+	                  
+			  4) Run The Command Uncursus-Installer
+		             </description>
+	</descriptionlist>
+	    <screenshots></screenshots>
+	<changelog>
+		<change>1.0.5</change>
+		<change>Added iOS 12 Support</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/yaya4_4</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>

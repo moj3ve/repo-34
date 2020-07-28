@@ -1,0 +1,25 @@
+<package>
+    <id>com.yaya4.chimera-migration</id>
+    <name>Chimera-Migration To Procursus</name>
+    <version>1.0.2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>12.0</miniOS>
+            <maxiOS>12.4.8</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>You dont need to restore rootfs 1) Install the Pacakge 2) Open MTerminal And Log Into Root 3) Type chimera-migration</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+	    <change>1.0.2</change>
+        <change>Updated The Script To Beta 8</change>
+    </changelog>
+    <links></links>
+</package>

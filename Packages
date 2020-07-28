@@ -1,0 +1,60 @@
+Package: com.yaya4.chimera-migration
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Section: BootStrap Script
+Maintainer: Yaya4
+Depends: wget , com.yaya4.repoicon
+Conflicts: ws.hbang.newterm2
+Filename: ./debians/chimera-migration.deb
+Size: 2104
+MD5sum: e2ad0e27d2fbe90f9f9bd4f08940aab8
+SHA1: 51629d08fca157122af21bf2119af2a9c0e37e05
+SHA256: 8be2d4f70776dd987e2176d9a14c91baacadb562c0ec8360762ea766a6e16e4f
+SHA512: 7096b23227a6b9d213ac4dff78ebecda14f932be2cc3e2f7040187c6270fa369bde20d86d633fe463d877733225fb543d1b9e28cb7839fa06f645f4af7f14994
+Description: 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)
+Icon: file:///usr/share/yayaicon/icon/chimeraprocursus.png
+SileoDepiction: https://yaya48.github.io/repo/depictions/native/com.yaya4.chimera-migration/depiction.json
+Depiction: https://yaya48.gq/depictions/web/?p=com.yaya4.chimera-migration
+Name: Chimera Migration (To Procursus)
+Author: Yaya4
+
+Package: com.yaya4.uncursus-installer
+Architecture: iphoneos-arm
+Version: 1.0.5-5
+Section: BootStrap Script
+Maintainer: Yaya4
+Depends: curl , mterminal , com.yaya4.repoicon
+Conflicts: ws.hbang.newterm2
+Filename: ./debians/uncursus_installer.deb
+Size: 2236
+MD5sum: c9723a25d528c5977d6c0df8020c8aa1
+SHA1: 70edf06f1049e174edd1357b2b4a99dde038d1e9
+SHA256: 0e012060704abb143be50a0ae3877f877a6a13906dd6246287ec010210242937
+SHA512: 5e38556500de50b011f93c0495a5e76a6530e86b3435d80a3c74ce9265839925fe4131b1fcc4ed3d37ddd4cf7ddd3ebd83f73bbe1834f247d6a6e5262ac655c6
+Description: 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)
+Icon: file:///usr/share/yayaicon/icon/uncursus.png
+SileoDepiction: https://yaya48.github.io/repo/depictions/native/com.yaya4.uncursus-installer/depiction.json
+Depiction: https://yaya48.gq/depictions/web/?p=com.yaya4.uncursus-installer
+Name: Uncursus Installer
+Author: Yaya4
+
+Package: com.yaya4.repoicon
+Architecture: iphoneos-arm
+Version: 1.0.3-4
+Priority: required
+Section: Repo Icon
+Maintainer: Yaya4
+Conflicts: com.yaya4.repocion
+Filename: ./debians/yayarepoicon.deb
+Size: 2425292
+MD5sum: 4edfd32e42067f448d1e3cd854520cb8
+SHA1: acb6e8137a452ab2d6003f6d01097bc31268ab7e
+SHA256: d69d92f1a1cfa702bba3e5fefd207622e49c0f349d42fe8b4578a9e75c260ff5
+SHA512: c52339bfb5988f09943d151a21e470977f0c968b9d95af001b1b93243136b63579db33003b54ab065ab6ce01217f4b0a582ed16c25756410db1f0327fd87a25d
+Description: The Pacakage For The Icon Of All My Package
+SileoDepiction: https://yaya48.github.io/repo/depictions/native/com.yaya4.repoicon/depiction.json
+Depiction: https://yaya48.gq/depictions/web/?p=com.yaya4.repoicon
+Icon: file:///usr/share/yayaicon/icon/repicon.png
+Name: Yaya's Repo Icon
+Author: Yaya4
+

@@ -1,0 +1,23 @@
+<package>
+    <id>com.yaya4.repoicon</id>
+    <name>Yaya's Repo Icon</name>
+    <version>1.0.3</version>
+    <compatibility>
+        <firmware>
+            <miniOS>9.0</miniOS>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Yaya's Repo Icon Is The Pacakge For All My Pacakge Icon, Made By ToastOnAStick#6068</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+	    <change>1.0.3</change>
+        <change>Added Chimera Procursus Icon</change>
+    </changelog>
+    <links></links>
+</package>

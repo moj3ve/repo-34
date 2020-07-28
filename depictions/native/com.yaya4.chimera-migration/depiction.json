@@ -1,0 +1,117 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://yaya48.github.io/repo/assets/repo/Banners/chimera-procursus.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Chimera Migration To Procursus\nMigrate To Procursus On Chimera Without Computer (You don't need to restore rootfs tweaks/apps are saved) 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command chimera-migration (PS: Thanks To ToastOnAStick#6068 For The Logo)"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "26/07/2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Yaya4",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Updated the Script To Beta 8",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Updated the Script To Beta 7",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 26/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				 {
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  First Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 26/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 26/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

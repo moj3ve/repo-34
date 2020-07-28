@@ -1,0 +1,22 @@
+<changelog>
+    <changes>
+        <version>1.0.0</version>
+        <change>Initial release</change>
+    </changes>
+   <changes>
+        <version>1.0.1</version>
+        <change>Fix Bugs + Change Depiction</change>
+    </changes>
+       <changes>
+        <version>1.0.2</version>
+        <change>Fix Bugs + Added An Odyssey Detector</change>
+    </changes>
+           <changes>
+        <version>1.0.3</version>
+        <change>Fix Respring Loop</change>
+    </changes>
+       <changes>
+        <version>1.0.4</version>
+        <change>Added Checkra1n Detector</change>
+    </changes>
+</changelog>
