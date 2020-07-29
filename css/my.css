@@ -24,7 +24,7 @@
 }
 
 #support {
-    color: #13CE66;
+    color: #f53535;
 }
 
 #least {
@@ -70,7 +70,7 @@
 }
 
 #welcome {
-    color: #ff9c41;
+    color: #f53535;
 }
 
 #homelink {
@@ -81,7 +81,7 @@
     text-align: left;
     font-size: 18px;
     line-height: 44px;
-    color: #ff9c41;
+    color: #f53535;
 }
 
 #dependencyList span {
@@ -103,10 +103,10 @@
 
 #contact p a {
     margin-right: 0.5em;
-    color: #ff9c41;
-    /*color: #6d6d72;*/
+    color: #f53535;
+    /*color: #f53535;*/
 }
 
 #contact i {
-    color: #fe8c24;
+    color: #f53535;
 }
