@@ -16,19 +16,18 @@
 	<descriptionlist>
 		<description>Install Procursus On Unc0ver Without Computer.</description>
 		<description>Steps:
-                          1) RESTORE ROOTFS
 	                  
-			  2) Install The Pacakage
+			  1) Install The Pacakage
 	                  
-			  3) Get Root In MTerminal
+			  2) Get Root In MTerminal
 	                  
-			  4) Run The Command Uncursus-Installer
+			  3) Run The Command Uncursus-Installer
 		             </description>
 	</descriptionlist>
 	    <screenshots></screenshots>
 	<changelog>
-		<change>1.0.5</change>
-		<change>Added iOS 12 Support</change>
+		<change>2.0</change>
+		<change>80% Of The Script Got Rewritted, Removed Unused Code, Switch The Method Used For Install Procursus To Migration That mean No Restore Rootfs Needed So Tweaks/Apps Rae Now Saved Saved</change>
 	</changelog>
 	<links>
 		<link>
