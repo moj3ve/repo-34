@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer RESTORE ROOTFS BEFORE 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)"
+					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.5",
+					"text": "2.0",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -51,6 +51,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "2.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  80% Of The Script Got Rewritted, Removed Unused Code, Switch The Method use For Install Procursus To Migration That mean No Restore Rootfs Needed So Twraks/Apps Saved",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 30/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				 {
 					"title": "1.0.5",
 					"useBoldText": true,
