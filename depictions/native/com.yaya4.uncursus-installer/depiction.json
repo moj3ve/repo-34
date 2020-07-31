@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.0",
+					"text": "2.0.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -51,6 +51,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+			         {
+					"title": "2.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Fix Some Links",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 31/07/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0",
 					"useBoldText": true,
