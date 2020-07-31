@@ -20,17 +20,17 @@ Author: Yaya4
 
 Package: com.yaya4.uncursus-installer
 Architecture: iphoneos-arm
-Version: 2.0-1
+Version: 2.0.1
 Section: BootStrap Script
 Maintainer: Yaya4
 Depends: curl , mterminal , com.yaya4.repoicon
 Conflicts: ws.hbang.newterm2
 Filename: ./debians/uncursus-installer.deb
 Size: 2212
-MD5sum: f6cbac2bf3d7fd349ae639a6a3b98082
-SHA1: db61487a2eefb09df4f1404165b467cd7bee5234
-SHA256: 990968d745e8d7051bad2633db2be5bcd7d4741ca9a24c1c15a874ee8d997be2
-SHA512: 7d19cf001a4fa20901419afd305d3bfd051dcd8b8b6cc17a1a19282b371f0d5b4d8d9094a998c24ef4ee778cd821dc997767cf7b3c677bc1e5ec20de49d1f7d6
+MD5sum: 0571358b70498466ae506e267142add9
+SHA1: 36bf01d6d9c532c8e58eeeff4116e9638b4f9147
+SHA256: fa51c1456152267d25dfee3cdab580925aea0d6ffb24d9f575e74a674ec62233
+SHA512: 3a5331f30448d8aac9e91c59bd6daea0712d13d33fab9f61800f7270942580ced7227705f5f2a6f6f7c261d7a74250c01a232ca5bc11c8ac64bfb0dfcb8115c3
 Description: 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)
 Icon: file:///usr/share/yayaicon/icon/uncursus.png
 SileoDepiction: https://repo.yaya48.gq/depictions/native/com.yaya4.uncursus-installer/depiction.json
