@@ -26,8 +26,8 @@
 	</descriptionlist>
 	    <screenshots></screenshots>
 	<changelog>
-		<change>2.0</change>
-		<change>80% Of The Script Got Rewritted, Removed Unused Code, Switch The Method Used For Install Procursus To Migration That mean No Restore Rootfs Needed So Tweaks/Apps Rae Now Saved Saved</change>
+		<change>2.0.1</change>
+		<change>Fix Some Links</change>
 	</changelog>
 	<links>
 		<link>
