@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.0.1",
+					"text": "2.0.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -51,6 +51,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "2.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Added ARM Darwin Checker + Better JB Checker",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 02/08/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 			         {
 					"title": "2.0.1",
 					"useBoldText": true,
