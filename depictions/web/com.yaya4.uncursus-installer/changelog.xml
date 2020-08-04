@@ -31,4 +31,8 @@
         <version>2.0.1</version>
         <change>Fix Some Links</change>
     </changes>
+         <changes>
+        <version>2.0.2</version>
+        <change>Added ARM Darwin Checker</change>
+    </changes>
 </changelog>
