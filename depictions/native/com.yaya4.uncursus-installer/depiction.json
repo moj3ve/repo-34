@@ -51,7 +51,23 @@
 		{
 			"tabname": "Changelog",
 			"views": [
-							{
+				{
+					"title": "2.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Updated Somes Links",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 09/08/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "2.0.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
