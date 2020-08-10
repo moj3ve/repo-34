@@ -8,7 +8,9 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)"
+					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo)",
+					"markdown": "## Note:\nAfter The installtion You Will have Procursus Cydia By Default Free to you to Keep Cydia or install zebra,sileo,installer or other package manager PS : For sileo use odyssey repo, PS: You can uninstall cydia after installed another package manager"
+
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,7 +21,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.0.4",
+					"text": "2.0.5",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -51,6 +53,23 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "2.0.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022  Script Is Now Downloaded From Github",
+					"markdown": "\t\n\u2022  Replaced Default Pacakge manager Sileo By Procursus Cydia",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 11/08/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0.4",
 					"useBoldText": true,
