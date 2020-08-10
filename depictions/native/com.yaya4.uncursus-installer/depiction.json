@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo),					After The installtion You Will have Procursus Cydia By Default Free to you to Keep Cydia or install zebra,sileo,installer or other package manager PS : For sileo use odyssey repo, PS: You can uninstall cydia after installed another package manager"
+					"markdown": "## Uncursus\nInstall Procursus On Unc0ver Without Computer 1. Install the package 2. Get root access in MTerminal (su followed by alpine or root password) 3. Run the command uncursus-installer (PS: Thanks To ToastOnAStick#6068 For The Logo),	After The installtion You Will have Procursus Cydia By Default Free to you to Keep Cydia or install zebra,sileo,installer or other package manager PS : For sileo use odyssey repo, PS: You can uninstall cydia after installed another package manager"
 				},
 				{
 					"class": "DepictionSeparatorView"
