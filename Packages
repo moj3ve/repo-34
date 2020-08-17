@@ -1,16 +1,17 @@
 Package: com.yaya4.otablocker
 Architecture: iphoneos-arm
-Version: 1.0-2
+Version: 1.0-3
 Section: Tweaks
 Maintainer: Yaya4
-Depends: com.ps.letmeblockb
+Pre-Depends: com.ps.letmeblockb
+Depends: com.yaya4.repoicon
 Conflicts: com.ps.letmeblock
 Filename: ./debians/OTABlocker.deb
-Size: 1092
-MD5sum: b8c2b332c80d7cc978e29840d637e978
-SHA1: c0e81799c1db175fed932876ff985927a84952a8
-SHA256: 4214c078bcecd372ae8a15c62a4578b39bfc4433dbcdbe7fc0251fa8dc3fb92c
-SHA512: 09386fe0d67652bc1cfd26ddf315e82b4057a15a2155c01e3855bbbb97f38706e61564dd4a864e170f8ad203bb2245f1ea8fef1e15132a9f3dc26f69c4aff593
+Size: 1104
+MD5sum: fd1ff9b57c2b2af4c42207eb1004b6d9
+SHA1: d6eb99adc10fd11178c051144dd24430020101f4
+SHA256: f5e76998e93a75be23ba7eb5e4dccc8e7b50ec6b6e890e5444c964c1d466b0ec
+SHA512: 3c61e53500821e518574f6d632c01c5858bfca0459bf7ed8e74890ad08b5742af72e7c47aac159223944b825f54364990a8d18e0dae7ffafa8a5e7a2929240c0
 Description: An simple ota blocker work with letmeblock!
 Name: OTABlocker
 Author: Yaya4
