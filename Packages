@@ -1,3 +1,23 @@
+Package: com.yaya4.otablocker
+Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
+Maintainer: Yaya4
+Depends: com.ps.letmeblockb
+Conflicts: com.ps.letmeblock
+Filename: ./debians/OTABlocker.deb
+Size: 1092
+MD5sum: b8c2b332c80d7cc978e29840d637e978
+SHA1: c0e81799c1db175fed932876ff985927a84952a8
+SHA256: 4214c078bcecd372ae8a15c62a4578b39bfc4433dbcdbe7fc0251fa8dc3fb92c
+SHA512: 09386fe0d67652bc1cfd26ddf315e82b4057a15a2155c01e3855bbbb97f38706e61564dd4a864e170f8ad203bb2245f1ea8fef1e15132a9f3dc26f69c4aff593
+Description: An simple ota blocker work with letmeblock!
+Name: OTABlocker
+Author: Yaya4
+Icon: file:///usr/share/yayaicon/icon/updateblocker.png
+SileoDepiction: https://repo.yaya48.gq/depictions/native/com.yaya4.otablocker/depiction.json
+Depiction: https://repo.yaya48.gq/depictions/web/?p=com.yaya4.otablocker
+
 Package: com.yaya4.chimera-migration
 Architecture: iphoneos-arm
 Version: 1.0.2-1
@@ -40,17 +60,17 @@ Author: Yaya4
 
 Package: com.yaya4.repoicon
 Architecture: iphoneos-arm
-Version: 1.0.3-4
+Version: 1.0.4
 Priority: required
 Section: Repo Icon
 Maintainer: Yaya4
 Conflicts: com.yaya4.repocion
 Filename: ./debians/yayarepoicon.deb
-Size: 2425284
-MD5sum: 6ed9646f843c32fd6dbaec5f8f65d0e2
-SHA1: 7cadef6e6993e5250b88212e4cd51da96ca0b0ad
-SHA256: 968057322475818cd65a6f0a12f5df0f6a122ab75157919a6f510f3c6e53442c
-SHA512: 757000f8f2bd1eb1a8fd7fa142590d0d1203a97dcc9ccda1424f3008a76e7793d831d73797280f9e9d7eab7efb9eb6a651f10f591bdcd2a4e8c656028731510c
+Size: 2593228
+MD5sum: c26941db8689e47cce36c4e66e1e3605
+SHA1: a9af0af04fa8cf4886e6bcc9f095d5626598fd76
+SHA256: a36b7f7e9ca4f19686ed8b2ffdbc6173edd4c3baef0f1bcdf8db8162c9046987
+SHA512: 82a3a449ba48434e8abbf1b00f4cdaea0a06401687095b3c8d67e64b3f320dc4eb5414062a81b8f6d2f187a35ba06f1e42a9833f07a656734d8fe39954fd71a3
 Description: The Pacakage For The Icon Of All My Package
 SileoDepiction: https://repo.yaya48.gq/depictions/native/com.yaya4.repoicon/depiction.json
 Depiction: https://repo.yaya48.gq/depictions/web/?p=com.yaya4.repoicon
