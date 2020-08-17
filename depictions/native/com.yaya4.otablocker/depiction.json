@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## OTA Blocker\nA very simple ways to block ota update in all jailbreak (for unc0ver before use it disable the box disable ota update) if you have dependency problem add cydia.ceadd.ca unblocking update is simple as blocking it uninstall the pacakge and that unblock it"
+					"markdown": "## OTA Blocker\nA very simple ways to block ota update in all jailbreak (for unc0ver before use it disable the box disable ota update) if you have dependency problem add cydia.ceadd.ca and install letmeblock before trying to install this, unblocking update is simple as blocking it uninstall the pacakge and that unblock it"
 				},
 				{
 					"class": "DepictionSeparatorView"
