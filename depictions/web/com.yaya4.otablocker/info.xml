@@ -10,9 +10,9 @@
         </firmware>
     </compatibility>
 	<dependencies>
-		<package>wget, mterminal, curl</package>
+		<package>com.ps.letmeblockb</package>
 	</dependencies>
-	<shortDescription>Uncursus Installer</shortDescription>
+	<shortDescription>OTA Blocker</shortDescription>
 	<descriptionlist>
 		<description>Block OTA Update Very Simply (useless on u0 if you have the u0 one enabled) add cydia.ceadd.ca to fix your dependecy problem unblocking update is simple as just uninstalling the pacakge</description>
 	</descriptionlist>
