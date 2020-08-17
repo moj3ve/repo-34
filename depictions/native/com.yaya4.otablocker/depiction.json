@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://yaya48.github.io/repo/assets/repo/Banners/repoiconbanner.png",
+	"headerImage": "https://yaya48.github.io/repo/assets/repo/Banners/Generic.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Repo Icon Pacakage\nThis Pacakage Conatain All The Pacakge Icon Made By ToastOnAStick#6068 He's Made Also The Banner"
+					"markdown": "## OTA Blocker\nA very simple ways to block ota update in all jailbreak (for unc0ver before use it disable the box disable ota update) if you have dependency problem add cydia.ceadd.ca unblocking update is simple as blocking it uninstall the pacakge and that unblock it"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,12 +19,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.4",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "25/07/2020",
+					"text": "17/08/2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -51,39 +51,23 @@
 		{
 			"tabname": "Changelog",
 			"views": [
-								{
-					"title": "1.0.4",
+				 {
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Added ota blocker icon",
+					"markdown": "\t\n\u2022  First Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
-			 {
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17/08/2020</small>",
+				{
+				"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17/08/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
 
-				{
-					"title": "1.0.3",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Added Chimera Procursus Icon",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25/07/2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
 			],
 			"class": "DepictionStackView"
 		}

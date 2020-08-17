@@ -1,7 +1,7 @@
 <package>
     <id>com.yaya4.repoicon</id>
     <name>Yaya's Repo Icon</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>9.0</miniOS>
@@ -16,8 +16,8 @@
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-	    <change>1.0.3</change>
-        <change>Added Chimera Procursus Icon</change>
+	    <change>1.0.4</change>
+        <change>Add otablocker icon</change>
     </changelog>
     <links></links>
 </package>

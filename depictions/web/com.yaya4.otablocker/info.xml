@@ -1,0 +1,31 @@
+<package>
+	<id>com.yaya4.otablovker</id>
+	<name>OTA Blocker</name>
+	<version>1.0</version>
+ <compatibility>
+        <firmware>
+            <miniOS>9.0</miniOS>
+            <maxiOS>13.6.1</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+	<dependencies>
+		<package>wget, mterminal, curl</package>
+	</dependencies>
+	<shortDescription>Uncursus Installer</shortDescription>
+	<descriptionlist>
+		<description>Block OTA Update Very Simply (useless on u0 if you have the u0 one enabled) add cydia.ceadd.ca to fix your dependecy problem unblocking update is simple as just uninstalling the pacakge</description>
+	</descriptionlist>
+	    <screenshots></screenshots>
+	<changelog>
+		<change>1.0</change>
+		<change>intial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/yaya4_4</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
